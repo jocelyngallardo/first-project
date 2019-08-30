@@ -1,13 +1,17 @@
-	body
-       {
+	body{
          background-color: lightblue;
        }
-       h1
-       {
+       h1{
          outline-style: double;
        }
-       }
-       h1
-       {
-         outline-style: double;
-       }
+	   img{
+		 padding: 12px;
+		 border:5px double red;
+		 margin:12px;
+	   }
+	   p{
+		   color: MidnightBlue;
+	   }
+	   #otherBlue{
+		   color: CornflowerBlue;
+	   }
